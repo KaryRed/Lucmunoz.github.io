@@ -7,4 +7,6 @@ Se forkearon y realizaron commit a los siguientes repositorios:
 - Carlos Valderas: https://github.com/Lucmunoz/CV-development.github.io
 - Ele Villar: https://github.com/Lucmunoz/elevillar.github.io
 
-
+Hola Lucas!!
+Acabo de hacer un Fork de tu proyecto.
+Slds.
